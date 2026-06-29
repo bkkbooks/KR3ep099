@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR3ep099/bkk/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: indent, offset: 2, content: 　, id: KR3ep099_jc_000-bkkind1}
+  back: []
+hash: sha256:40c63d5f1a3419f8d3be8dab5a7dceaf3229876a4d4a55e5fbfc7cf28ce790d6

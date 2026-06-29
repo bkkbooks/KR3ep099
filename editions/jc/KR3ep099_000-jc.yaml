@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR3ep099/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二集傳染病案
+  hash: sha256:77c73953ecd87c71d751375fa4023630ff37894f42ac091a71ec6d4063b0e4e8
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ep099_jc_000-d5.h1s1}
+  - {type: 'tls:div-start', offset: 6, content: '', id: KR3ep099_jc_000-d5d2, level: 2, head_text: 第七卷時行溫疫病案}
+metadata:
+  title: 全國名醫驗案類編
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep099.xml
+hash: sha256:ee400ae385d2faf31add0219aa3abbb88f96c9e44206614534fd9ba3bbb4ba80

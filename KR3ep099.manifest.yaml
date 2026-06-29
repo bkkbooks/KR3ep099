@@ -1,0 +1,4384 @@
+canonical_identifier: bkk:krp/KR3ep099/v1
+canonical_location: https://kanripo.org/bkk/KR3ep099/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 全國名醫驗案類編
+  identifiers:
+    krp: KR3ep099
+  tags:
+    kr-categories: KR3ep
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ep099.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ep099_000.yaml, hash: 'sha256:5371229f4b1b636beeedd42c2a826c707af117c02107be57537f79de4010cb6d'}
+  - {seq: 1, filename: KR3ep099_001.yaml, hash: 'sha256:5fff6d6456f0b4e969a4ea511d08d5f03e9cd5f09798f33133e0f83b4b428d65'}
+  - {seq: 2, filename: KR3ep099_002.yaml, hash: 'sha256:17db4105c64abd627b362241b4fbb350f460592daa39651db6ef556a75113f60'}
+  - {seq: 3, filename: KR3ep099_003.yaml, hash: 'sha256:25dbeb68ca6cf4f99615139eca6af9dcaa2a422d4847318f2309647889fb5c9f'}
+  - {seq: 4, filename: KR3ep099_004.yaml, hash: 'sha256:1b0842ba6c697d2503264e81536cb5f24911c8ae61248c3dc978221a4e8e753a'}
+  - {seq: 5, filename: KR3ep099_005.yaml, hash: 'sha256:dccd58c2e5ae09c565e8c6a0e009070ecc12f18e5286344e87d52f5f15391562'}
+  - {seq: 6, filename: KR3ep099_006.yaml, hash: 'sha256:708eed524db60834f386bd15426074503cb5736f34b9e5f04276cbaa848d9cc7'}
+  - {seq: 0, filename: KR3ep099_000.yaml, hash: 'sha256:ee400ae385d2faf31add0219aa3abbb88f96c9e44206614534fd9ba3bbb4ba80'}
+  - {seq: 7, filename: KR3ep099_007.yaml, hash: 'sha256:3c3cfd73dd0cb03872657d4c86bebc7929277cffee46c1a8af9b002e40c9253b'}
+  - {seq: 8, filename: KR3ep099_008.yaml, hash: 'sha256:f7ff7fd6f20be2e6c6455a78c701025e993061459af0ad2f79c98648157f349c'}
+  - {seq: 9, filename: KR3ep099_009.yaml, hash: 'sha256:cd023e8e4974429df5a14af64eda38ba0b46a6443652c6732b82f92c4f9e5eea'}
+  - {seq: 10, filename: KR3ep099_010.yaml, hash: 'sha256:f7954042949344ed7b11451d29bf6f760bf5f3332b27c48f07b51de99f93dba5'}
+  - {seq: 11, filename: KR3ep099_011.yaml, hash: 'sha256:6b2c338ac7389aa9c5df6d5107f3f14d01a0196d60411597c36050d98871e109'}
+  - {seq: 12, filename: KR3ep099_012.yaml, hash: 'sha256:30560d998b29e92eb75be5341403458baa0106174e8fe9ea02068e89d559cf30'}
+  - {seq: 13, filename: KR3ep099_013.yaml, hash: 'sha256:1f905dbc8c95a67663905743fe90226735d5e7736de60581209adfe7ce866417'}
+  - {seq: 14, filename: KR3ep099_014.yaml, hash: 'sha256:53b33d90b49001ef8aecf1ac2a1962795f479cc3392eb456182b1ff5d248630c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ep099_001.markers.yaml, hash: 'sha256:2ac07a8259050edee2775a3fe75cef2fef225369901ca3c08f5f39502e523ab3'}
+  - {seq: 2, role: markers, filename: assets/KR3ep099_002.markers.yaml, hash: 'sha256:e8d90e4c8502dd2b3b5d3d782c6c45dbd3e25e29dfdd1eba39c262d54c052dd9'}
+  - {seq: 3, role: markers, filename: assets/KR3ep099_003.markers.yaml, hash: 'sha256:ca881ee2a532360995b3b748947f2e92ac92e71b827d6adeb9c7ae153652a1e5'}
+  - {seq: 4, role: markers, filename: assets/KR3ep099_004.markers.yaml, hash: 'sha256:d727db0fe2752f46d5388cb3f98bb706aee3270aa457ed87bf6de33c7eba15d7'}
+  - {seq: 5, role: markers, filename: assets/KR3ep099_005.markers.yaml, hash: 'sha256:520467026aee4abb861783b95f8cb644f685da37e42fc5df5652c4e4fb39f540'}
+  - {seq: 6, role: markers, filename: assets/KR3ep099_006.markers.yaml, hash: 'sha256:4006d2878519fb865de44e91a127de57ee0a2c8042bbf760733cef485ce499c4'}
+  - {seq: 7, role: markers, filename: assets/KR3ep099_007.markers.yaml, hash: 'sha256:3bae5ef6ab8c209abd61cd3d1f71741ef3278b396178d4a0cf2c2b963ba53fb0'}
+  - {seq: 8, role: markers, filename: assets/KR3ep099_008.markers.yaml, hash: 'sha256:e047a1df6c79a3aa91aa70998c79306574c05624a657eb071c806a8e3113dd51'}
+  - {seq: 9, role: markers, filename: assets/KR3ep099_009.markers.yaml, hash: 'sha256:f2ac81c10347aca101ec50bdc162e2f2080a83588a4f8adafb8ae0afa224e912'}
+  - {seq: 10, role: markers, filename: assets/KR3ep099_010.markers.yaml, hash: 'sha256:be3f9aaa2295a749fcfa8c4ee40267a4cf352568af34c5a5d7872112882a48ae'}
+  - {seq: 11, role: markers, filename: assets/KR3ep099_011.markers.yaml, hash: 'sha256:7d39d0e227ab7b7d6e44b224738fc22b85a7214a91f79784799008e31c59e260'}
+  - {seq: 12, role: markers, filename: assets/KR3ep099_012.markers.yaml, hash: 'sha256:590a4696020f4c99c90045cde851c4c86a6dffcd80d8650f4044daa3378be25a'}
+  - {seq: 13, role: markers, filename: assets/KR3ep099_013.markers.yaml, hash: 'sha256:0d99d4e3b7912198c5c10a92df25c66439040531b880263350d888c5dd651a54'}
+  - {seq: 14, role: markers, filename: assets/KR3ep099_014.markers.yaml, hash: 'sha256:59e6de909594f42c3775a8a248165225ca0fa257f01d3677ade7f768860270fa'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 3631
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2d2
+    span:
+    - front
+    - 1
+    - 791
+  label: 夏序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2d3
+    span:
+    - front
+    - 791
+    - 1199
+  label: 丁序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2d4
+    span:
+    - front
+    - 1199
+    - 1751
+  label: 徐序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2d5
+    span:
+    - front
+    - 1751
+    - 2122
+  label: 陸序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2d6
+    span:
+    - front
+    - 2122
+    - 2651
+  label: 秦序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2d7
+    span:
+    - front
+    - 2651
+    - 2953
+  label: 丁序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d2d8
+    span:
+    - front
+    - 2953
+    - 3631
+  label: 郭序
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1273
+  label: 緒論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d4.h1s1
+    span:
+    - body
+    - 1273
+    - 1281
+  label: 初集四時六淫病案
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 38898
+  label: 初集四時六淫病案
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d2
+    span:
+    - body
+    - 7
+    - 821
+  label: 冒風夾驚案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d3
+    span:
+    - body
+    - 821
+    - 1174
+  label: 冒風夾食案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d4
+    span:
+    - body
+    - 1174
+    - 1545
+  label: 傷風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d5
+    span:
+    - body
+    - 1545
+    - 2237
+  label: 傷風兼惡阻案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d6
+    span:
+    - body
+    - 2237
+    - 3296
+  label: 中風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d7
+    span:
+    - body
+    - 3296
+    - 3941
+  label: 中風閉證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d8
+    span:
+    - body
+    - 3941
+    - 4375
+  label: 中風閉證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d9
+    span:
+    - body
+    - 4375
+    - 4748
+  label: 中風閉證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d10
+    span:
+    - body
+    - 4748
+    - 5253
+  label: 中風脫證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d11
+    span:
+    - body
+    - 5253
+    - 5589
+  label: 中風偏枯案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d12
+    span:
+    - body
+    - 5589
+    - 6047
+  label: 中風偏枯案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d13
+    span:
+    - body
+    - 6047
+    - 6516
+  label: 中風半身不遂案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d14
+    span:
+    - body
+    - 6516
+    - 7087
+  label: 風溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d15
+    span:
+    - body
+    - 7087
+    - 7375
+  label: 風溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d16
+    span:
+    - body
+    - 7375
+    - 7835
+  label: 風溫暴泄案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d17
+    span:
+    - body
+    - 7835
+    - 8273
+  label: 風溫火逆案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d18
+    span:
+    - body
+    - 8273
+    - 8813
+  label: 風溫喘促案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d19
+    span:
+    - body
+    - 8813
+    - 9165
+  label: 風溫時毒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d20
+    span:
+    - body
+    - 9165
+    - 9727
+  label: 風溫發痙案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d21
+    span:
+    - body
+    - 9727
+    - 10069
+  label: 風溫伏邪案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d22
+    span:
+    - body
+    - 10069
+    - 10687
+  label: 風溫兼伏氣化熱案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d23
+    span:
+    - body
+    - 10687
+    - 11364
+  label: 風溫夾食案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d24
+    span:
+    - body
+    - 11364
+    - 11899
+  label: 風溫夾食案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d25
+    span:
+    - body
+    - 11899
+    - 12464
+  label: 風溫挾濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d26
+    span:
+    - body
+    - 12464
+    - 12811
+  label: 風熱案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d27
+    span:
+    - body
+    - 12811
+    - 13754
+  label: 三陽風熱證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d28
+    span:
+    - body
+    - 13754
+    - 14173
+  label: 風熱咳血案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d29
+    span:
+    - body
+    - 14173
+    - 14446
+  label: 風熱夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d30
+    span:
+    - body
+    - 14446
+    - 14984
+  label: 風熱夾積案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d31
+    span:
+    - body
+    - 14984
+    - 15310
+  label: 風濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d32
+    span:
+    - body
+    - 15310
+    - 15739
+  label: 風濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d33
+    span:
+    - body
+    - 15739
+    - 16248
+  label: 風濕相搏案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d34
+    span:
+    - body
+    - 16248
+    - 17026
+  label: 風濕夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d35
+    span:
+    - body
+    - 17026
+    - 17592
+  label: 風濕飧泄案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d36
+    span:
+    - body
+    - 17592
+    - 18150
+  label: 風濕腳氣夾腎虛案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d37
+    span:
+    - body
+    - 18150
+    - 18693
+  label: 風寒洞泄案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d38
+    span:
+    - body
+    - 18693
+    - 20409
+  label: 風痹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d39
+    span:
+    - body
+    - 20409
+    - 21534
+  label: 風痹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d40
+    span:
+    - body
+    - 21534
+    - 22091
+  label: 風濕成痹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d41
+    span:
+    - body
+    - 22091
+    - 22563
+  label: 風水腫脹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d42
+    span:
+    - body
+    - 22563
+    - 22988
+  label: 風疹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d43
+    span:
+    - body
+    - 22988
+    - 23477
+  label: 風痧竄筋案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d44
+    span:
+    - body
+    - 23477
+    - 24046
+  label: 風痙似驚案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d45
+    span:
+    - body
+    - 24046
+    - 24557
+  label: 偏頭風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d46
+    span:
+    - body
+    - 24557
+    - 24777
+  label: 腦風頭痛案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d47
+    span:
+    - body
+    - 24777
+    - 25609
+  label: 頭風害目案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d48
+    span:
+    - body
+    - 25609
+    - 26650
+  label: 頭風害目案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d49
+    span:
+    - body
+    - 26650
+    - 27365
+  label: 目風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d50
+    span:
+    - body
+    - 27365
+    - 27769
+  label: 目風眼癢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d51
+    span:
+    - body
+    - 27769
+    - 28164
+  label: 目風流淚案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d52
+    span:
+    - body
+    - 28164
+    - 28691
+  label: 風火眼疾案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d53
+    span:
+    - body
+    - 28691
+    - 29007
+  label: 目風生翳案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d54
+    span:
+    - body
+    - 29007
+    - 29745
+  label: 喉風案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d55
+    span:
+    - body
+    - 29745
+    - 30149
+  label: 纏喉風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d56
+    span:
+    - body
+    - 30149
+    - 30676
+  label: 馬脾風案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d57
+    span:
+    - body
+    - 30676
+    - 31146
+  label: 肺風痰喘案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d58
+    span:
+    - body
+    - 31146
+    - 31440
+  label: 風嗽案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d59
+    span:
+    - body
+    - 31440
+    - 31933
+  label: 風咳失音案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d60
+    span:
+    - body
+    - 31933
+    - 32353
+  label: 風哮案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d61
+    span:
+    - body
+    - 32353
+    - 32760
+  label: 風瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d62
+    span:
+    - body
+    - 32760
+    - 33104
+  label: 伏風陰瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d63
+    span:
+    - body
+    - 33104
+    - 33550
+  label: 風泄案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d64
+    span:
+    - body
+    - 33550
+    - 34034
+  label: 風腫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d65
+    span:
+    - body
+    - 34034
+    - 34683
+  label: 歷節風案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d66
+    span:
+    - body
+    - 34683
+    - 35478
+  label: 歷節痛風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d67
+    span:
+    - body
+    - 35478
+    - 35849
+  label: 赤遊風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d68
+    span:
+    - body
+    - 35849
+    - 36499
+  label: 鶴膝風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d69
+    span:
+    - body
+    - 36499
+    - 37010
+  label: 鶴膝風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d70
+    span:
+    - body
+    - 37010
+    - 37616
+  label: 鶴膝風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d71
+    span:
+    - body
+    - 37616
+    - 38147
+  label: 膝眼風案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d72
+    span:
+    - body
+    - 38147
+    - 38484
+  label: 風痢便膿案內科
+  type: section
+  level: 3
+- ref:
+    seq: 1
+    marker_id: KR3ep099_jc_001-d4.d2d73
+    span:
+    - body
+    - 38484
+    - 38898
+  label: 產後血虛風乘案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 16702
+  label: 初集四時六淫病案
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d2
+    span:
+    - body
+    - 7
+    - 452
+  label: 傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d3
+    span:
+    - body
+    - 452
+    - 1013
+  label: 陽虛傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d4
+    span:
+    - body
+    - 1013
+    - 1170
+  label: 夏月傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d5
+    span:
+    - body
+    - 1170
+    - 1632
+  label: 傷寒失表案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d6
+    span:
+    - body
+    - 1632
+    - 1925
+  label: 陰證傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d7
+    span:
+    - body
+    - 1925
+    - 2235
+  label: 傷寒陰結案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d8
+    span:
+    - body
+    - 2235
+    - 2616
+  label: 傷寒誤遏案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d9
+    span:
+    - body
+    - 2616
+    - 3356
+  label: 傷寒熱厥案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d10
+    span:
+    - body
+    - 3356
+    - 3945
+  label: 傷寒戴陽證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d11
+    span:
+    - body
+    - 3945
+    - 4586
+  label: 傷寒戴陽證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d12
+    span:
+    - body
+    - 4586
+    - 5689
+  label: 真寒假熱證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d13
+    span:
+    - body
+    - 5689
+    - 5983
+  label: 太陰傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d14
+    span:
+    - body
+    - 5983
+    - 6387
+  label: 太陰傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d15
+    span:
+    - body
+    - 6387
+    - 6672
+  label: 少陰傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d16
+    span:
+    - body
+    - 6672
+    - 7119
+  label: 少陰傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d17
+    span:
+    - body
+    - 7119
+    - 7391
+  label: 傷寒夾濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d18
+    span:
+    - body
+    - 7391
+    - 8042
+  label: 傷寒夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d19
+    span:
+    - body
+    - 8042
+    - 8486
+  label: 傷寒夾陰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d20
+    span:
+    - body
+    - 8486
+    - 9020
+  label: 夾陰傷寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d21
+    span:
+    - body
+    - 9020
+    - 9373
+  label: 風寒夾痰飲案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d22
+    span:
+    - body
+    - 9373
+    - 9641
+  label: 傷寒變痹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d23
+    span:
+    - body
+    - 9641
+    - 10286
+  label: 傷寒兼伏熱案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d24
+    span:
+    - body
+    - 10286
+    - 10702
+  label: 傷寒挾伏熱案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d25
+    span:
+    - body
+    - 10702
+    - 11163
+  label: 傷寒兼瀉案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d26
+    span:
+    - body
+    - 11163
+    - 12118
+  label: 寒痹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d27
+    span:
+    - body
+    - 12118
+    - 12626
+  label: 寒痹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d28
+    span:
+    - body
+    - 12626
+    - 12944
+  label: 寒瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d29
+    span:
+    - body
+    - 12944
+    - 13279
+  label: 寒瘧發厥案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d30
+    span:
+    - body
+    - 13279
+    - 13870
+  label: 寒結腹痛證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d31
+    span:
+    - body
+    - 13870
+    - 14384
+  label: 寒痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d32
+    span:
+    - body
+    - 14384
+    - 14985
+  label: 傷寒夾痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d33
+    span:
+    - body
+    - 14985
+    - 15585
+  label: 虛寒痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d34
+    span:
+    - body
+    - 15585
+    - 16379
+  label: 虛寒久痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3ep099_jc_002-d4.d3d35
+    span:
+    - body
+    - 16379
+    - 16702
+  label: 寒濕陰黃案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 26279
+  label: 初集四時六淫病案
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d2
+    span:
+    - body
+    - 7
+    - 681
+  label: 傷暑腹痛案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d3
+    span:
+    - body
+    - 681
+    - 1112
+  label: 中暑案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d4
+    span:
+    - body
+    - 1112
+    - 1722
+  label: 中暑案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d5
+    span:
+    - body
+    - 1722
+    - 2146
+  label: 中暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d6
+    span:
+    - body
+    - 2146
+    - 2453
+  label: 中暑案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d7
+    span:
+    - body
+    - 2453
+    - 4407
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d8
+    span:
+    - body
+    - 4407
+    - 5036
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d9
+    span:
+    - body
+    - 5036
+    - 5231
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d10
+    span:
+    - body
+    - 5231
+    - 5623
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d11
+    span:
+    - body
+    - 5623
+    - 6547
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d12
+    span:
+    - body
+    - 6547
+    - 6964
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d13
+    span:
+    - body
+    - 6964
+    - 7943
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d14
+    span:
+    - body
+    - 7943
+    - 8390
+  label: 伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d15
+    span:
+    - body
+    - 8390
+    - 8848
+  label: 陽明伏暑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d16
+    span:
+    - body
+    - 8848
+    - 9411
+  label: 肝經伏暑案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d17
+    span:
+    - body
+    - 9411
+    - 10582
+  label: 伏暑晚發案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d18
+    span:
+    - body
+    - 10582
+    - 11045
+  label: 伏暑春發案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d19
+    span:
+    - body
+    - 11045
+    - 11562
+  label: 伏暑胎瘧案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d20
+    span:
+    - body
+    - 11562
+    - 12256
+  label: 伏暑兼孕案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d21
+    span:
+    - body
+    - 12256
+    - 12862
+  label: 伏暑夾痰食瘀案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d22
+    span:
+    - body
+    - 12862
+    - 13258
+  label: 伏暑陰瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d23
+    span:
+    - body
+    - 13258
+    - 13523
+  label: 伏暑勞瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d24
+    span:
+    - body
+    - 13523
+    - 14341
+  label: 伏暑瘧壞病案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d25
+    span:
+    - body
+    - 14341
+    - 14776
+  label: 伏暑痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d26
+    span:
+    - body
+    - 14776
+    - 15853
+  label: 伏暑煙痢案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d27
+    span:
+    - body
+    - 15853
+    - 16367
+  label: 伏暑痢夾房勞案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d28
+    span:
+    - body
+    - 16367
+    - 16916
+  label: 伏暑子痢案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d29
+    span:
+    - body
+    - 16916
+    - 17412
+  label: 產後伏暑痢案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d30
+    span:
+    - body
+    - 17412
+    - 17737
+  label: 暑咳案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d31
+    span:
+    - body
+    - 17737
+    - 17966
+  label: 暑瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d32
+    span:
+    - body
+    - 17966
+    - 18318
+  label: 暑瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d33
+    span:
+    - body
+    - 18318
+    - 18619
+  label: 暑風剛痙案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d34
+    span:
+    - body
+    - 18619
+    - 19003
+  label: 暑邪入營痙厥案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d35
+    span:
+    - body
+    - 19003
+    - 19363
+  label: 暑厥兼肺痹案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d36
+    span:
+    - body
+    - 19363
+    - 19905
+  label: 暑濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d37
+    span:
+    - body
+    - 19905
+    - 20318
+  label: 暑濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d38
+    span:
+    - body
+    - 20318
+    - 21121
+  label: 暑濕夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d39
+    span:
+    - body
+    - 21121
+    - 21626
+  label: 暑濕夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d40
+    span:
+    - body
+    - 21626
+    - 22389
+  label: 暑濕夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d41
+    span:
+    - body
+    - 22389
+    - 23043
+  label: 暑濕瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d42
+    span:
+    - body
+    - 23043
+    - 23449
+  label: 暑濕痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d43
+    span:
+    - body
+    - 23449
+    - 23947
+  label: 暑濕痢轉休息案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d44
+    span:
+    - body
+    - 23947
+    - 24657
+  label: 產後暑濕痢案產科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d45
+    span:
+    - body
+    - 24657
+    - 25002
+  label: 暑濕瘧痢案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d46
+    span:
+    - body
+    - 25002
+    - 25581
+  label: 暑濕化脹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3ep099_jc_003-d4.d4d47
+    span:
+    - body
+    - 25581
+    - 26279
+  label: 伏邪陰瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 20247
+  label: 初集四時六淫病案
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d2
+    span:
+    - body
+    - 7
+    - 654
+  label: 冒濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d3
+    span:
+    - body
+    - 654
+    - 887
+  label: 傷濕兼寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d4
+    span:
+    - body
+    - 887
+    - 1485
+  label: 中濕夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d5
+    span:
+    - body
+    - 1485
+    - 1832
+  label: 伏濕發㾦案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d6
+    span:
+    - body
+    - 1832
+    - 2473
+  label: 伏濕腹痛案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d7
+    span:
+    - body
+    - 2473
+    - 3025
+  label: 濕流關節案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d8
+    span:
+    - body
+    - 3025
+    - 3328
+  label: 濕痹案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d9
+    span:
+    - body
+    - 3328
+    - 3720
+  label: 濕痹腫喘案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d10
+    span:
+    - body
+    - 3720
+    - 4264
+  label: 濕夾溢飲案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d11
+    span:
+    - body
+    - 4264
+    - 5006
+  label: 濕瘧案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d12
+    span:
+    - body
+    - 5006
+    - 5491
+  label: 三陰濕瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d13
+    span:
+    - body
+    - 5491
+    - 6018
+  label: 濕瀉案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d14
+    span:
+    - body
+    - 6018
+    - 7920
+  label: 濕溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d15
+    span:
+    - body
+    - 7920
+    - 9358
+  label: 濕溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d16
+    span:
+    - body
+    - 9358
+    - 9712
+  label: 濕溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d17
+    span:
+    - body
+    - 9712
+    - 10540
+  label: 濕溫兼寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d18
+    span:
+    - body
+    - 10540
+    - 11275
+  label: 濕溫夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d19
+    span:
+    - body
+    - 11275
+    - 12259
+  label: 濕溫轉虛案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d20
+    span:
+    - body
+    - 12259
+    - 12684
+  label: 濕溫壞證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d21
+    span:
+    - body
+    - 12684
+    - 12867
+  label: 濕熱頭痛案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d22
+    span:
+    - body
+    - 12867
+    - 14231
+  label: 濕熱痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d23
+    span:
+    - body
+    - 14231
+    - 15032
+  label: 濕熱痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d24
+    span:
+    - body
+    - 15032
+    - 15563
+  label: 濕熱痢轉休息案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d25
+    span:
+    - body
+    - 15563
+    - 16260
+  label: 酒濕休息痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d26
+    span:
+    - body
+    - 16260
+    - 17416
+  label: 濕熱痢兼痿案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d27
+    span:
+    - body
+    - 17416
+    - 17763
+  label: 濕熱陽黃證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d28
+    span:
+    - body
+    - 17763
+    - 18735
+  label: 濕腳氣案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d29
+    span:
+    - body
+    - 18735
+    - 19188
+  label: 濕腳氣案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d30
+    span:
+    - body
+    - 19188
+    - 19515
+  label: 腳氣上衝案內科
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3ep099_jc_004-d4.d5d31
+    span:
+    - body
+    - 19515
+    - 20247
+  label: 腳氣衝心案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 16486
+  label: 初集四時六淫病案
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d2
+    span:
+    - body
+    - 7
+    - 470
+  label: 風燥傷衛案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d3
+    span:
+    - body
+    - 470
+    - 1158
+  label: 涼燥犯肺案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d4
+    span:
+    - body
+    - 1158
+    - 1976
+  label: 溫燥傷肺案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d5
+    span:
+    - body
+    - 1976
+    - 2561
+  label: 燥咳案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d6
+    span:
+    - body
+    - 2561
+    - 2848
+  label: 燥咳案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d7
+    span:
+    - body
+    - 2848
+    - 3522
+  label: 孕婦燥咳案產科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d8
+    span:
+    - body
+    - 3522
+    - 4315
+  label: 燥咳咯血案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d9
+    span:
+    - body
+    - 4315
+    - 5256
+  label: 燥咳頭暈案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d10
+    span:
+    - body
+    - 5256
+    - 5946
+  label: 燥咳似癆案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d11
+    span:
+    - body
+    - 5946
+    - 6675
+  label: 燥咳動沖案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d12
+    span:
+    - body
+    - 6675
+    - 6955
+  label: 燥咳兼瀉案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d13
+    span:
+    - body
+    - 6955
+    - 7321
+  label: 秋燥泄瀉案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d14
+    span:
+    - body
+    - 7321
+    - 8138
+  label: 秋燥化痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d15
+    span:
+    - body
+    - 8138
+    - 8944
+  label: 秋燥呃逆案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d16
+    span:
+    - body
+    - 8944
+    - 10002
+  label: 肺燥脾濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d17
+    span:
+    - body
+    - 10002
+    - 10647
+  label: 燥結案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d18
+    span:
+    - body
+    - 10647
+    - 11631
+  label: 燥結案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d19
+    span:
+    - body
+    - 11631
+    - 12119
+  label: 燥結腸枯案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d20
+    span:
+    - body
+    - 12119
+    - 13532
+  label: 寒燥陰結案內科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d21
+    span:
+    - body
+    - 13532
+    - 14282
+  label: 寒燥陰結案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d22
+    span:
+    - body
+    - 14282
+    - 14631
+  label: 燥痙案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d23
+    span:
+    - body
+    - 14631
+    - 15071
+  label: 燥痙案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d24
+    span:
+    - body
+    - 15071
+    - 15910
+  label: 燥痙昏厥案產科
+  type: section
+  level: 3
+- ref:
+    seq: 5
+    marker_id: KR3ep099_jc_005-d4.d6d25
+    span:
+    - body
+    - 15910
+    - 16486
+  label: 燥痙昏厥案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 32230
+  label: 初集四時六淫病案
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d2
+    span:
+    - body
+    - 7
+    - 691
+  label: 溫病案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d3
+    span:
+    - body
+    - 691
+    - 1619
+  label: 溫病案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d4
+    span:
+    - body
+    - 1619
+    - 2103
+  label: 溫病案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d5
+    span:
+    - body
+    - 2103
+    - 2559
+  label: 溫病案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d6
+    span:
+    - body
+    - 2559
+    - 2954
+  label: 溫病晚發案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d7
+    span:
+    - body
+    - 2954
+    - 4197
+  label: 溫病發斑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d8
+    span:
+    - body
+    - 4197
+    - 4572
+  label: 溫病發斑案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d9
+    span:
+    - body
+    - 4572
+    - 5153
+  label: 腎虛溫病案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d10
+    span:
+    - body
+    - 5153
+    - 5814
+  label: 產後溫病案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d11
+    span:
+    - body
+    - 5814
+    - 6148
+  label: 溫病鼻衄案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d12
+    span:
+    - body
+    - 6148
+    - 6515
+  label: 溫病咯血案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d13
+    span:
+    - body
+    - 6515
+    - 6882
+  label: 溫病咯血案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d14
+    span:
+    - body
+    - 6882
+    - 7369
+  label: 溫病兼沖氣上衝案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d15
+    span:
+    - body
+    - 7369
+    - 7979
+  label: 春溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d16
+    span:
+    - body
+    - 7979
+    - 8361
+  label: 春溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d17
+    span:
+    - body
+    - 8361
+    - 8797
+  label: 春溫案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d18
+    span:
+    - body
+    - 8797
+    - 10203
+  label: 春溫發斑案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d19
+    span:
+    - body
+    - 10203
+    - 10677
+  label: 春溫誤治案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d20
+    span:
+    - body
+    - 10677
+    - 11163
+  label: 春溫夾食案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d21
+    span:
+    - body
+    - 11163
+    - 12818
+  label: 春溫夾痰案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d22
+    span:
+    - body
+    - 12818
+    - 13391
+  label: 春溫夾痰喘案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d23
+    span:
+    - body
+    - 13391
+    - 13803
+  label: 春溫夾痰熱案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d24
+    span:
+    - body
+    - 13803
+    - 14787
+  label: 春溫晚發誤治壞證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d25
+    span:
+    - body
+    - 14787
+    - 15400
+  label: 春溫兼寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d26
+    span:
+    - body
+    - 15400
+    - 15666
+  label: 秋溫夾濕案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d27
+    span:
+    - body
+    - 15666
+    - 16243
+  label: 冬溫戰汗案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d28
+    span:
+    - body
+    - 16243
+    - 16553
+  label: 溫瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d29
+    span:
+    - body
+    - 16553
+    - 17158
+  label: 溫瘧案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d30
+    span:
+    - body
+    - 17158
+    - 17570
+  label: 溫瘧兼痰厥案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d31
+    span:
+    - body
+    - 17570
+    - 18081
+  label: 熱病案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d32
+    span:
+    - body
+    - 18081
+    - 18530
+  label: 熱病兼寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d33
+    span:
+    - body
+    - 18530
+    - 19166
+  label: 癉熱兼寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d34
+    span:
+    - body
+    - 19166
+    - 19522
+  label: 熱病化燥案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d35
+    span:
+    - body
+    - 19522
+    - 19914
+  label: 伏熱咳血案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d36
+    span:
+    - body
+    - 19914
+    - 20373
+  label: 熱沖頭腦案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d37
+    span:
+    - body
+    - 20373
+    - 21218
+  label: 熱伏膈膜案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d38
+    span:
+    - body
+    - 21218
+    - 21468
+  label: 孕婦熱竄隧絡案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d39
+    span:
+    - body
+    - 21468
+    - 21880
+  label: 胃腸實熱案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d40
+    span:
+    - body
+    - 21880
+    - 22713
+  label: 熱鬱腹痛證案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d41
+    span:
+    - body
+    - 22713
+    - 23712
+  label: 熱伏肝沖案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d42
+    span:
+    - body
+    - 23712
+    - 24374
+  label: 熱結膀胱案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d43
+    span:
+    - body
+    - 24374
+    - 24675
+  label: 熱入血室案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d44
+    span:
+    - body
+    - 24675
+    - 25025
+  label: 熱入血室案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d45
+    span:
+    - body
+    - 25025
+    - 25593
+  label: 熱入血室變子宮炎案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d46
+    span:
+    - body
+    - 25593
+    - 26294
+  label: 熱病發狂案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d47
+    span:
+    - body
+    - 26294
+    - 27157
+  label: 熱病子癇案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d48
+    span:
+    - body
+    - 27157
+    - 27760
+  label: 伏熱痙厥案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d49
+    span:
+    - body
+    - 27760
+    - 28447
+  label: 熱病殞胎案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d50
+    span:
+    - body
+    - 28447
+    - 28747
+  label: 上熱下寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d51
+    span:
+    - body
+    - 28747
+    - 29546
+  label: 真熱假寒案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d52
+    span:
+    - body
+    - 29546
+    - 30079
+  label: 熱瀉案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d53
+    span:
+    - body
+    - 30079
+    - 30616
+  label: 積熱化瀉案兒科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d54
+    span:
+    - body
+    - 30616
+    - 31114
+  label: 伏熱痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d55
+    span:
+    - body
+    - 31114
+    - 31600
+  label: 熱痢傷陰案婦科
+  type: section
+  level: 3
+- ref:
+    seq: 6
+    marker_id: KR3ep099_jc_006-d4.d7d56
+    span:
+    - body
+    - 31600
+    - 32230
+  label: 伏熱五色痢案內科
+  type: section
+  level: 3
+- ref:
+    seq: 0
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 6
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 11993
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d2
+    span:
+    - body
+    - 9
+    - 236
+  label: 溫毒發斑案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d3
+    span:
+    - body
+    - 236
+    - 540
+  label: 溫疫發斑案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d4
+    span:
+    - body
+    - 540
+    - 1488
+  label: 溫疫內陷證案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d5
+    span:
+    - body
+    - 1488
+    - 1729
+  label: 溫疫閉證案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d6
+    span:
+    - body
+    - 1729
+    - 2499
+  label: 溫疫昏厥案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d7
+    span:
+    - body
+    - 2499
+    - 2876
+  label: 時疫溫毒案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d8
+    span:
+    - body
+    - 2876
+    - 3343
+  label: 時疫溫毒案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d9
+    span:
+    - body
+    - 3343
+    - 3883
+  label: 溫毒發頤案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d10
+    span:
+    - body
+    - 3883
+    - 5693
+  label: 溫毒喉癰案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d11
+    span:
+    - body
+    - 5693
+    - 6219
+  label: 溫毒牙疳案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d12
+    span:
+    - body
+    - 6219
+    - 6857
+  label: 秋瘟痙厥案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d13
+    span:
+    - body
+    - 6857
+    - 7514
+  label: 時行冬瘟案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d14
+    span:
+    - body
+    - 7514
+    - 7950
+  label: 大頭瘟案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d15
+    span:
+    - body
+    - 7950
+    - 8260
+  label: 疙瘩瘟案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d16
+    span:
+    - body
+    - 8260
+    - 8688
+  label: 軟腳瘟案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d17
+    span:
+    - body
+    - 8688
+    - 9955
+  label: 傷風時疫證案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d18
+    span:
+    - body
+    - 9955
+    - 11110
+  label: 妊娠兼風燥時疫證案
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3ep099_jc_007-d5.d2d19
+    span:
+    - body
+    - 11110
+    - 11993
+  label: 妊娠燥疫證案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13078
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d2
+    span:
+    - body
+    - 9
+    - 918
+  label: 疫喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d3
+    span:
+    - body
+    - 918
+    - 1387
+  label: 疫喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d4
+    span:
+    - body
+    - 1387
+    - 3158
+  label: 疫喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d5
+    span:
+    - body
+    - 3158
+    - 3573
+  label: 溫疫喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d6
+    span:
+    - body
+    - 3573
+    - 4063
+  label: 溫毒喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d7
+    span:
+    - body
+    - 4063
+    - 4870
+  label: 溫毒喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d8
+    span:
+    - body
+    - 4870
+    - 5989
+  label: 瘟毒喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d9
+    span:
+    - body
+    - 5989
+    - 6737
+  label: 風毒喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d10
+    span:
+    - body
+    - 6737
+    - 7423
+  label: 春溫喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d11
+    span:
+    - body
+    - 7423
+    - 8305
+  label: 冬溫喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d12
+    span:
+    - body
+    - 8305
+    - 9795
+  label: 爛喉疫痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d13
+    span:
+    - body
+    - 9795
+    - 10474
+  label: 爛喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d14
+    span:
+    - body
+    - 10474
+    - 11810
+  label: 爛喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d15
+    span:
+    - body
+    - 11810
+    - 12136
+  label: 喉痧兼熱入血室案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d16
+    span:
+    - body
+    - 12136
+    - 12609
+  label: 爛喉丹毒案
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3ep099_jc_008-d5.d3d17
+    span:
+    - body
+    - 12609
+    - 13078
+  label: 喉痧變爛喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 12613
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d2
+    span:
+    - body
+    - 9
+    - 400
+  label: 燥疫白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d3
+    span:
+    - body
+    - 400
+    - 1071
+  label: 燥疫白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d4
+    span:
+    - body
+    - 1071
+    - 1872
+  label: 燥疫白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d5
+    span:
+    - body
+    - 1872
+    - 2401
+  label: 燥疫白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d6
+    span:
+    - body
+    - 2401
+    - 3250
+  label: 燥疫白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d7
+    span:
+    - body
+    - 3250
+    - 4237
+  label: 燥疫白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d8
+    span:
+    - body
+    - 4237
+    - 4848
+  label: 燥疫白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d9
+    span:
+    - body
+    - 4848
+    - 5265
+  label: 燥證紅喉轉白案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d10
+    span:
+    - body
+    - 5265
+    - 6378
+  label: 風毒白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d11
+    span:
+    - body
+    - 6378
+    - 7298
+  label: 風毒白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d12
+    span:
+    - body
+    - 7298
+    - 7965
+  label: 風火白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d13
+    span:
+    - body
+    - 7965
+    - 8218
+  label: 伏熱白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d14
+    span:
+    - body
+    - 8218
+    - 9006
+  label: 陰寒白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d15
+    span:
+    - body
+    - 9006
+    - 9726
+  label: 陰寒白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d16
+    span:
+    - body
+    - 9726
+    - 10190
+  label: 虛火白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d17
+    span:
+    - body
+    - 10190
+    - 10479
+  label: 虛火白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d18
+    span:
+    - body
+    - 10479
+    - 11124
+  label: 白喉並病案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d19
+    span:
+    - body
+    - 11124
+    - 11814
+  label: 白喉壞證案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d20
+    span:
+    - body
+    - 11814
+    - 12167
+  label: 白喉兼瀉案
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3ep099_jc_009-d5.d4d21
+    span:
+    - body
+    - 12167
+    - 12613
+  label: 瀉轉白喉案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13172
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d2
+    span:
+    - body
+    - 9
+    - 1141
+  label: 時疫霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d3
+    span:
+    - body
+    - 1141
+    - 1727
+  label: 時疫霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d4
+    span:
+    - body
+    - 1727
+    - 2259
+  label: 時疫霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d5
+    span:
+    - body
+    - 2259
+    - 2736
+  label: 時疫霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d6
+    span:
+    - body
+    - 2736
+    - 3173
+  label: 時疫霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d7
+    span:
+    - body
+    - 3173
+    - 3490
+  label: 時疫霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d8
+    span:
+    - body
+    - 3490
+    - 3782
+  label: 霍亂轉筋案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d9
+    span:
+    - body
+    - 3782
+    - 4378
+  label: 霍亂轉筋案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d10
+    span:
+    - body
+    - 4378
+    - 4927
+  label: 霍亂轉筋案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d11
+    span:
+    - body
+    - 4927
+    - 5373
+  label: 霍亂轉筋案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d12
+    span:
+    - body
+    - 5373
+    - 5960
+  label: 霍亂轉筋案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d13
+    span:
+    - body
+    - 5960
+    - 6645
+  label: 霍亂轉筋案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d14
+    span:
+    - body
+    - 6645
+    - 7204
+  label: 抽筋霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d15
+    span:
+    - body
+    - 7204
+    - 7741
+  label: 陰寒霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d16
+    span:
+    - body
+    - 7741
+    - 8428
+  label: 陰寒霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d17
+    span:
+    - body
+    - 8428
+    - 9126
+  label: 寒濕霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d18
+    span:
+    - body
+    - 9126
+    - 9776
+  label: 風火霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d19
+    span:
+    - body
+    - 9776
+    - 10266
+  label: 中熱霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d20
+    span:
+    - body
+    - 10266
+    - 10621
+  label: 伏暑霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d21
+    span:
+    - body
+    - 10621
+    - 10974
+  label: 乾霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d22
+    span:
+    - body
+    - 10974
+    - 11528
+  label: 乾霍亂案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d23
+    span:
+    - body
+    - 11528
+    - 12674
+  label: 霍亂後轉變熱病案
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3ep099_jc_010-d5.d5d24
+    span:
+    - body
+    - 12674
+    - 13172
+  label: 霍亂暴脫案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 10470
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d2
+    span:
+    - body
+    - 10
+    - 1268
+  label: 急性疫痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d3
+    span:
+    - body
+    - 1268
+    - 2337
+  label: 急性疫痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d4
+    span:
+    - body
+    - 2337
+    - 2683
+  label: 急性疫痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d5
+    span:
+    - body
+    - 2683
+    - 3959
+  label: 急性疫痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d6
+    span:
+    - body
+    - 3959
+    - 5523
+  label: 五色疫痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d7
+    span:
+    - body
+    - 5523
+    - 6031
+  label: 熱毒赤痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d8
+    span:
+    - body
+    - 6031
+    - 6389
+  label: 熱毒赤痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d9
+    span:
+    - body
+    - 6389
+    - 7561
+  label: 伏熱赤痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d10
+    span:
+    - body
+    - 7561
+    - 8241
+  label: 暑毒赤痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d11
+    span:
+    - body
+    - 8241
+    - 8495
+  label: 暑毒赤痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d12
+    span:
+    - body
+    - 8495
+    - 9100
+  label: 伏暑赤痢案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d13
+    span:
+    - body
+    - 9100
+    - 9772
+  label: 赤痢轉虛案
+  type: section
+  level: 3
+- ref:
+    seq: 11
+    marker_id: KR3ep099_jc_011-d5.d6d14
+    span:
+    - body
+    - 9772
+    - 10470
+  label: 疫痢末期案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 30694
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d2
+    span:
+    - body
+    - 10
+    - 1754
+  label: 疫痘順證案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d3
+    span:
+    - body
+    - 1754
+    - 2444
+  label: 疫痘逆證案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d4
+    span:
+    - body
+    - 2444
+    - 2947
+  label: 疫痘逆證案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d5
+    span:
+    - body
+    - 2947
+    - 3975
+  label: 春溫疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d6
+    span:
+    - body
+    - 3975
+    - 4742
+  label: 夏熱天痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d7
+    span:
+    - body
+    - 4742
+    - 5723
+  label: 冬溫疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d8
+    span:
+    - body
+    - 5723
+    - 6290
+  label: 風溫疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d9
+    span:
+    - body
+    - 6290
+    - 7382
+  label: 風熱疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d10
+    span:
+    - body
+    - 7382
+    - 8420
+  label: 風寒疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d11
+    span:
+    - body
+    - 8420
+    - 9576
+  label: 陰寒疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d12
+    span:
+    - body
+    - 9576
+    - 10717
+  label: 溫毒疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d13
+    span:
+    - body
+    - 10717
+    - 12025
+  label: 瘟毒疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d14
+    span:
+    - body
+    - 12025
+    - 12574
+  label: 氣虛疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d15
+    span:
+    - body
+    - 12574
+    - 13550
+  label: 疫痘黑陷案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d16
+    span:
+    - body
+    - 13550
+    - 14357
+  label: 疫痘夾瘄案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d17
+    span:
+    - body
+    - 14357
+    - 15076
+  label: 疫痘夾驚案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d18
+    span:
+    - body
+    - 15076
+    - 16784
+  label: 疫痘夾疔案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d19
+    span:
+    - body
+    - 16784
+    - 17834
+  label: 疫痘夾癍案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d20
+    span:
+    - body
+    - 17834
+    - 19202
+  label: 痘夾癍疹案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d21
+    span:
+    - body
+    - 19202
+    - 20773
+  label: 痘夾喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d22
+    span:
+    - body
+    - 20773
+    - 25471
+  label: 疫痘夾疳案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d23
+    span:
+    - body
+    - 25471
+    - 26566
+  label: 天痘夾癰案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d24
+    span:
+    - body
+    - 26566
+    - 27085
+  label: 痘毒攻心案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d25
+    span:
+    - body
+    - 27085
+    - 27668
+  label: 時疫水痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d26
+    span:
+    - body
+    - 27668
+    - 29035
+  label: 妊痘案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d27
+    span:
+    - body
+    - 29035
+    - 29820
+  label: 產後痘證案
+  type: section
+  level: 3
+- ref:
+    seq: 12
+    marker_id: KR3ep099_jc_012-d5.d7d28
+    span:
+    - body
+    - 29820
+    - 30694
+  label: 產後疫痘案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 19352
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d2
+    span:
+    - body
+    - 10
+    - 911
+  label: 春溫時瘄案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d3
+    span:
+    - body
+    - 911
+    - 1624
+  label: 風溫時瘄案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d4
+    span:
+    - body
+    - 1624
+    - 2512
+  label: 風溫疫痧案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d5
+    span:
+    - body
+    - 2512
+    - 3513
+  label: 夏熱瘟疹案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d6
+    span:
+    - body
+    - 3513
+    - 4208
+  label: 夏熱疫點案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d7
+    span:
+    - body
+    - 4208
+    - 5355
+  label: 秋溫疫瘄案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d8
+    span:
+    - body
+    - 5355
+    - 8475
+  label: 冬溫麻疹案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d9
+    span:
+    - body
+    - 8475
+    - 8945
+  label: 冬溫疫痧案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d10
+    span:
+    - body
+    - 8945
+    - 9851
+  label: 冬溫疫痧案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d11
+    span:
+    - body
+    - 9851
+    - 10575
+  label: 伏熱發疹案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d12
+    span:
+    - body
+    - 10575
+    - 11279
+  label: 食積悶瘄案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d13
+    span:
+    - body
+    - 11279
+    - 11575
+  label: 麻疹痰閉案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d14
+    span:
+    - body
+    - 11575
+    - 12557
+  label: 疫痧內隱案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d15
+    span:
+    - body
+    - 12557
+    - 13246
+  label: 瘄後受風夾食案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d16
+    span:
+    - body
+    - 13246
+    - 14226
+  label: 時瘄夾斑案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d17
+    span:
+    - body
+    - 14226
+    - 15699
+  label: 瘄夾喉痧案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d18
+    span:
+    - body
+    - 15699
+    - 16493
+  label: 瘄夾水痘案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d19
+    span:
+    - body
+    - 16493
+    - 17147
+  label: 疫瘄化疳案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d20
+    span:
+    - body
+    - 17147
+    - 17700
+  label: 瘄後痢案
+  type: section
+  level: 3
+- ref:
+    seq: 13
+    marker_id: KR3ep099_jc_013-d5.d8d21
+    span:
+    - body
+    - 17700
+    - 19352
+  label: 妊娠疫疹案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_000-d5.h1s1
+    span:
+    - body
+    - 0
+    - 13834
+  label: 二集傳染病案
+  type: section
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d2
+    span:
+    - body
+    - 10
+    - 1477
+  label: 肺鼠疫案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d3
+    span:
+    - body
+    - 1477
+    - 2747
+  label: 肺鼠疫案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d4
+    span:
+    - body
+    - 2747
+    - 3466
+  label: 肺鼠疫案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d5
+    span:
+    - body
+    - 3466
+    - 4961
+  label: 腺鼠疫案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d6
+    span:
+    - body
+    - 4961
+    - 7378
+  label: 腺鼠疫案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d7
+    span:
+    - body
+    - 7378
+    - 10269
+  label: 鼠疫血瘀結核案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d8
+    span:
+    - body
+    - 10269
+    - 11159
+  label: 鼠疫結核案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d9
+    span:
+    - body
+    - 11159
+    - 12481
+  label: 鼠疫結核案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d10
+    span:
+    - body
+    - 12481
+    - 13307
+  label: 鼠疫結核案
+  type: section
+  level: 3
+- ref:
+    seq: 14
+    marker_id: KR3ep099_jc_014-d5.d9d11
+    span:
+    - body
+    - 13307
+    - 13834
+  label: 鼠疫吐血案
+  type: section
+  level: 3
+hash: sha256:061cae2c2b26cbbca85d5b90aa26038286ec07a6e6829520bec8669502c126ce
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
